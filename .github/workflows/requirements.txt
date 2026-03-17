@@ -1,1 +1,5 @@
 torch
+flake8 
+pytest 
+numpy
+pandas
